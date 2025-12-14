@@ -1,0 +1,83 @@
+{
+    "app": {
+        "title": "إمبراطورية المحتوى",
+        "subtitle": "منصة إدارة المحتوى بالذكاء الاصطناعي"
+    },
+    "nav": {
+        "dashboard": "لوحة التحكم",
+        "sites": "المواقع",
+        "sources": "المصادر",
+        "articles": "المقالات",
+        "settings": "الإعدادات"
+    },
+    "dashboard": {
+        "title": "لوحة التحكم",
+        "totalSites": "إجمالي المواقع",
+        "activeSites": "المواقع النشطة",
+        "totalArticles": "إجمالي المقالات",
+        "publishedToday": "نُشر اليوم",
+        "recentActivity": "النشاط الأخير",
+        "articlesChart": "إحصائيات المقالات"
+    },
+    "sites": {
+        "title": "إدارة المواقع",
+        "addSite": "إضافة موقع",
+        "siteName": "اسم الموقع",
+        "siteUrl": "رابط الموقع",
+        "wpUsername": "اسم المستخدم",
+        "wpPassword": "كلمة مرور التطبيق",
+        "targetLanguage": "لغة الهدف",
+        "velocityMode": "وضع السرعة",
+        "velocityNews": "أخبار (كل 10 دقائق)",
+        "velocityEvergreen": "دائم الخضرة (كل 24 ساعة)",
+        "categoryMap": "خريطة التصنيفات",
+        "bingCookie": "كوكي Bing",
+        "watermarkText": "نص العلامة المائية",
+        "testConnection": "اختبار الاتصال",
+        "syncCategories": "مزامنة التصنيفات",
+        "sources": "مصادر",
+        "articles": "مقالات"
+    },
+    "sources": {
+        "title": "إدارة المصادر",
+        "addSource": "إضافة مصدر",
+        "sourceName": "اسم المصدر",
+        "sourceType": "نوع المصدر",
+        "typeRss": "خلاصة RSS",
+        "typeUrl": "رابط مباشر",
+        "sourceUrl": "رابط المصدر",
+        "pollInterval": "فترة الاستطلاع (دقائق)",
+        "maxArticles": "أقصى عدد للمقالات",
+        "poll": "استطلاع الآن",
+        "lastPolled": "آخر استطلاع"
+    },
+    "articles": {
+        "title": "المقالات",
+        "status": "الحالة",
+        "pending": "قيد الانتظار",
+        "processing": "قيد المعالجة",
+        "published": "منشور",
+        "failed": "فشل",
+        "duplicate": "مكرر",
+        "retry": "إعادة المحاولة",
+        "viewPost": "عرض المقال",
+        "originalTitle": "العنوان الأصلي",
+        "processedTitle": "العنوان المعالج",
+        "imageSource": "مصدر الصورة"
+    },
+    "common": {
+        "save": "حفظ",
+        "cancel": "إلغاء",
+        "delete": "حذف",
+        "edit": "تعديل",
+        "active": "نشط",
+        "inactive": "غير نشط",
+        "loading": "جاري التحميل...",
+        "error": "حدث خطأ",
+        "success": "تم بنجاح",
+        "confirm": "تأكيد",
+        "search": "بحث...",
+        "noData": "لا توجد بيانات",
+        "actions": "الإجراءات"
+    }
+}

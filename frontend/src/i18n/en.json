@@ -1,0 +1,83 @@
+{
+    "app": {
+        "title": "Content Empire",
+        "subtitle": "AI-Powered Content Management Platform"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "sites": "Sites",
+        "sources": "Sources",
+        "articles": "Articles",
+        "settings": "Settings"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "totalSites": "Total Sites",
+        "activeSites": "Active Sites",
+        "totalArticles": "Total Articles",
+        "publishedToday": "Published Today",
+        "recentActivity": "Recent Activity",
+        "articlesChart": "Articles Statistics"
+    },
+    "sites": {
+        "title": "Site Management",
+        "addSite": "Add Site",
+        "siteName": "Site Name",
+        "siteUrl": "Site URL",
+        "wpUsername": "WP Username",
+        "wpPassword": "Application Password",
+        "targetLanguage": "Target Language",
+        "velocityMode": "Velocity Mode",
+        "velocityNews": "News (Every 10 min)",
+        "velocityEvergreen": "Evergreen (Every 24 hrs)",
+        "categoryMap": "Category Map",
+        "bingCookie": "Bing Cookie",
+        "watermarkText": "Watermark Text",
+        "testConnection": "Test Connection",
+        "syncCategories": "Sync Categories",
+        "sources": "Sources",
+        "articles": "Articles"
+    },
+    "sources": {
+        "title": "Source Management",
+        "addSource": "Add Source",
+        "sourceName": "Source Name",
+        "sourceType": "Source Type",
+        "typeRss": "RSS Feed",
+        "typeUrl": "Direct URL",
+        "sourceUrl": "Source URL",
+        "pollInterval": "Poll Interval (minutes)",
+        "maxArticles": "Max Articles",
+        "poll": "Poll Now",
+        "lastPolled": "Last Polled"
+    },
+    "articles": {
+        "title": "Articles",
+        "status": "Status",
+        "pending": "Pending",
+        "processing": "Processing",
+        "published": "Published",
+        "failed": "Failed",
+        "duplicate": "Duplicate",
+        "retry": "Retry",
+        "viewPost": "View Post",
+        "originalTitle": "Original Title",
+        "processedTitle": "Processed Title",
+        "imageSource": "Image Source"
+    },
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "active": "Active",
+        "inactive": "Inactive",
+        "loading": "Loading...",
+        "error": "An error occurred",
+        "success": "Success",
+        "confirm": "Confirm",
+        "search": "Search...",
+        "noData": "No data available",
+        "actions": "Actions"
+    }
+}
